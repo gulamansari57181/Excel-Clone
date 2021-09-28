@@ -1,1 +1,0 @@
-Hello Guys, I am making this projects to practise and  gain hands on experience on HTML CSS and javascript(Jquery).
